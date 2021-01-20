@@ -1,5 +1,5 @@
 # ultasonic-Distance-Meter-AVR
-embedded system built on AVR Architecture To measure Distance by ultasonic Distance Sensor and Display Distance on LCD character display.
+embedded system built on AVR Architecture To measure Distance precisely by ultasonic Distance Sensor and Display Distance in cm on LCD character display.
 
 ## Circuit
 <img src="images/circuit.PNG">
